@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Ganglion_01-rescue")(type "Legacy")(uri "${KIPRJMOD}/Ganglion_01-rescue.lib")(options "")(descr ""))
+  (lib (name "OpenBCI")(type "Legacy")(uri "${KIPRJMOD}/OpenBCI_KiCad_library_files/OpenBCI.lib")(options "")(descr ""))
+)
